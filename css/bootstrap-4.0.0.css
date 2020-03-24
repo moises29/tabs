@@ -40,6 +40,28 @@
 *::after {
   box-sizing: border-box;
 }
+.container-fluid .container-fluid #clothingnavcontent1 {
+    background-color: #FF5456;
+
+}
+#paneTwo6 p img {
+    padding-top: 3px;
+    margin-top: 6px;
+}
+#paneTwo4 p img {
+    margin-top: 6px;
+}
+#paneTwo3 p img {
+    margin-top: 6px;
+}
+.container-fluid #clothingnavcontent1 #home1 {
+    background-color: #FFFFFF;
+}
+
+
+
+
+
 
 html {
   font-family: sans-serif;
